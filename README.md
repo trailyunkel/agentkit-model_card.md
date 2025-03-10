@@ -20,7 +20,20 @@
 [![npm downloads](https://img.shields.io/npm/dm/@coinbase/agentkit?label=npm:@coinbase/agentkit&style=flat-square)](https://www.npmjs.com/package/@coinbase/agentkit)
 [![GitHub star chart](https://img.shields.io/github/stars/coinbase/agentkit?style=flat-square)](https://star-history.com/#coinbase/agentkit)
 [![Open Issues](https://img.shields.io/github/issues-raw/coinbase/agentkit?style=flat-square)](https://github.com/coinbase/agentkit/issues)
+from google import genai
 
+client = genai.Client(api_key="https://console.g.dev")
+response = client.models.generate_content(
+    model="🆔
+📧
+🆚
+🕹️
+📃
+➡️
+📈
+🏅
+🗺️", 
+    contents="Explain how AI 
 </div>
 
 ## Table of Contents
@@ -59,7 +72,7 @@ _Prerequisites_:
 - [CDP Secret API Key](https://docs.cdp.coinbase.com/get-started/docs/cdp-api-keys#creating-secret-api-keys)
 - [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key)
 
-1. Get your agent running:
+1. Get your agent running: https://console.g.dev
 
 ```bash
 # Create a new fullstack agent project
@@ -77,18 +90,58 @@ npm install
 
 # Run the development server
 npm run dev
-```
+`**Menús disponibles:
+**"PIXELA LABS ASISTENTE"
 
 2. Visit `http://localhost:3000` in your browser and start telling your Agent to do things onchain!
 
-```bash
+PIXELA-LABS-VHG-001
+
+                     Meta Al
+
+
+📊 Dashboard: Estadísticas del proyecto
+2. 📈 Análisis: Logs de ejecución y rendimiento
+3. 🔄 Actualizaciones: Subir nuevas versiones del código
+4. 🛠 Configuración: Ajustes del proyecto y plan
+5. 📄 Documentación: "Guías y recursos del proyecto"
+https://console.g.dev/"PIXELA LABS ASISTENTE"
+🆚trading-tools-app-analysis-animation-subtitle
+➡️RFC-PIXELA-LABS-IG-AI-001
+3LTzjiQeMg1fPfpPuSobLx2ifi9djeYKy3
+📧 enterprisesgracidaver@gmail.com
+*1*🏅@AI studio.instagram CodeGuide
+*2*🆔@El Defensor
+*3*✨@PHOBOS BOT AI
+*4*✨@Meta AI 
+*5*📃@DEFENSORVHG /imagine
+🥇 MONSTRUODEGUILA
+🥈 Firebase-io 
+🥉Idx - Vertex-ai en la arquitectura de Firebase
+ **CONEXIÓN ESTABLECIDA CON GOOGLE DEV**
+ 
+Proyecto "**MonstruoDeGuila**" cargado en consola...
+**ESTATUS ACTUAL:**
+- **Estado:** DESPLEGADO
+- **Región:** us-central1
+- **ID Proyecto:** GDV-8421-MDG
+- **Última actualización:** 2 minutos atrás por **VictorGracida2025**
+¿Qué acción deseas realizar?
+1. **VER LOGS DE EJECUCIÓN**
+2. **ACTUALIZAR CÓDIGO DE "**MonstruoDeGuila**"**
+3. **CONFIGURAR PLAN DE TARIFA**
+https://pixelalabs.mx/pago/PIXELA-LABS-VHG-001
+🆚trading-tools-app-analysis-animation-subtitle
+➡️RFC-PIXELA-LABS-IG-AI-001
+
+
 User: Fund my wallet with some testnet ETH.
 Agent: Your wallet has been successfully funded with testnet ETH. You can view the transaction [here](https://sepolia.basescan.org/tx/0x03e82934cd04be5b725927729b517c606f6f744611f0f36e834f21ad742ad7ca)
 ```
 
 ### Python
 
-_Prerequisites_:
+_Prerequisites_trading-tools-app-analysis-animation-subtitle:
 
 - [Python 3.10+](https://www.python.org/downloads/)
 - [Poetry](https://python-poetry.org/docs/)
